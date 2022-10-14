@@ -1,0 +1,282 @@
+[
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\layout_activity_fitness_centre.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\layout\\activity_fitness_centre.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\menu_dashboard.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\menu\\dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\layout_card_item.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\layout\\card_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\layout_mylist1.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\layout\\mylist1.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\layout_nav_header_dashboard.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\layout\\nav_header_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "com.example.splash1.app-merged_res-47:/drawable-v24_lunch.jpg.flat",
+        "source": "com.example.splash1.app-main-49:/drawable-v24/lunch.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\drawable-v24_back5.jpg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\drawable-v24\\back5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\drawable-v24_center6.jpg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\drawable-v24\\center6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\drawable-v24_woodback.jpg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\drawable-v24\\woodback.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\drawable-v24_center3.jpg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\drawable-v24\\center3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\drawable_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\drawable-v24_home.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\drawable-v24\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\drawable-v24_center7.jpg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\drawable-v24\\center7.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\drawable_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\drawable\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\layout_activity_main2.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\drawable-v24_fitness.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\drawable-v24\\fitness.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\layout_activity_main_dashboard.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\layout\\activity_main_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\drawable-v24_center4.jpg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\drawable-v24\\center4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\drawable-v24_p1.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\drawable-v24\\p1.png"
+    },
+    {
+        "merged": "com.example.splash1.app-merged_res-47:/drawable-v24_evening.jpg.flat",
+        "source": "com.example.splash1.app-main-49:/drawable-v24/evening.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\drawable-v24_center8.jpg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\drawable-v24\\center8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\layout_fragment_gallery.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\drawable-v24_doctor.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\drawable-v24\\doctor.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\layout_activity_nutritionists.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\layout\\activity_nutritionists.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\drawable-v24_nutrition.jpg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\drawable-v24\\nutrition.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\layout_app_bar_dashboard.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\layout\\app_bar_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\drawable-v24_center1.jpg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\drawable-v24\\center1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\drawable-v24_nutritionist.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\drawable-v24\\nutritionist.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\drawable-v24_dietition2.jpg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\drawable-v24\\dietition2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\drawable-v24_dietitions.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\drawable-v24\\dietitions.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\layout_content_dashboard.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\layout\\content_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\menu_activity_main_drawer.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\drawable-v24_nutritionist1.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\drawable-v24\\nutritionist1.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\drawable_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\drawable-v24_back3.jpg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\drawable-v24\\back3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\drawable-v24_home2.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\drawable-v24\\home2.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\drawable-v24_center5.jpg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\drawable-v24\\center5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\layout_fragment_slideshow.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\drawable-v24_dietplan.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\drawable-v24\\dietplan.png"
+    },
+    {
+        "merged": "com.example.splash1.app-merged_res-47:/drawable-v24_breakfast.jpg.flat",
+        "source": "com.example.splash1.app-main-49:/drawable-v24/breakfast.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-pngs-42:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\drawable-v24_center2.jpg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\drawable-v24\\center2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\drawable-v24_measure.jpg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\drawable-v24\\measure.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.splash1.app-merged_res-47:/drawable-v24_dinner.jpg.flat",
+        "source": "com.example.splash1.app-main-49:/drawable-v24/dinner.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\layout_mylist.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\layout\\mylist.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\drawable-v24_fitnesscenter.jpg.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\drawable-v24\\fitnesscenter.jpg"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\layout_card_item1.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\layout\\card_item1.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\layout_activity_dietitian.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\layout\\activity_dietitian.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-merged_res-47:\\layout_activity_diet_plan.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\7.3.3\\com.example.splash1.app-main-49:\\layout\\activity_diet_plan.xml"
+    }
+]
